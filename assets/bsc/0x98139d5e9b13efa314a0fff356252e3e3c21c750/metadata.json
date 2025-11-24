@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "Tether USD token metadata",
+  "image": "https://raw.githubusercontent.com/asrstudio886-dotcom/Asr/main/logo.png"
+}
